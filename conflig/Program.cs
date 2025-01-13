@@ -11,7 +11,7 @@ namespace conflig
         static void Main(string[] args)
         {
             string s="nsssll";
-            string c = "version5";
+            string c = "version6";
         }
     }
 }
