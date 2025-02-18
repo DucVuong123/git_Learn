@@ -15,7 +15,7 @@ namespace conflig
         }
         void MyFeature1()
         {
-
+            string fa = "feature2";
         }
     }
 }
