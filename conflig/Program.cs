@@ -13,9 +13,9 @@ namespace conflig
             string s="nsssll";
             string c = "version7";
         }
-        void BugFix()
+        void MyFeature1()
         {
-
+            string fa = "feature3";
         }
     }
 }
