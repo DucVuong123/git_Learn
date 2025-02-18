@@ -13,5 +13,9 @@ namespace conflig
             string s="nsssll";
             string c = "version7";
         }
+        void MyFeature1()
+        {
+
+        }
     }
 }
