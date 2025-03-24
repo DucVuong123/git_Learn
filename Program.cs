@@ -10,6 +10,7 @@ namespace git_Learn
     {
         static void Main(string[] args)
         {
+            string c = "commit 2";
         }
     }
 }
