@@ -12,6 +12,7 @@ namespace git_Learn
         {
             string c = "commit 2";
             string v = "feature1";
+            string m = "Feature 2";
         }
     }
 }
