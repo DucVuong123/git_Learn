@@ -18,7 +18,7 @@ namespace git_Learn
         {
 
         }
-        private void newFeatureMinh()
+        private void newFeatureMinh2()
         {
 
         }
