@@ -17,8 +17,10 @@ namespace git_Learn
         private void newFeatureVuong2()
         {
             //Vuong add code3
+            //minh fix vuong code
+            //Vuong add code
         }
-        private void newFeatureMinh()
+        private void newFeatureMinh2()
         {
 
         }
