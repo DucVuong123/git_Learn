@@ -14,5 +14,9 @@ namespace git_Learn
             string v = "feature1";
             string m = "Feature 2";
         }
+        private void newFeatureVuong()
+        {
+
+        }
     }
 }
