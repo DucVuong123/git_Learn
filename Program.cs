@@ -16,6 +16,7 @@ namespace git_Learn
         }
         private void newFeatureVuong2()
         {
+            //minh fix vuong code
             //Vuong add code
         }
         private void newFeatureMinh2()
