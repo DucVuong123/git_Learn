@@ -18,5 +18,9 @@ namespace git_Learn
         {
 
         }
+        private void newFeatureMinh()
+        {
+
+        }
     }
 }
